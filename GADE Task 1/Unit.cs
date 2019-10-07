@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GADE_Task_1     // MYLES LOUW 18024474    
 {  
-    public abstract class Unit
+    public abstract class Unit 
     {
         //Q1.3
         protected int x;
